@@ -1,7 +1,7 @@
 {
-  "name": "@noahsk/fc-mc-test04",
-  "version": "0.1.0",
-  "description": "for testing with npm publish - TSX library attempt",
+  "name": "@noahsk/fc-mc-test01",
+  "version": "1.0.0",
+  "description": "Simple TSX react library for testing with npm/git publish",
   "author": "handsoffred",
   "license": "MIT",
   "repository": {

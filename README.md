@@ -1,13 +1,13 @@
 # fc-mc-test01
 
-> for testing with npm publish - TSX library attempt
+TSX version of very simple React library. Testing install from girhub.com
 
 [![NPM](https://img.shields.io/npm/v/fc-mc-test01.svg)](https://www.npmjs.com/package/fc-mc-test01) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save fc-mc-test01
+npm install git+https://github.com/handsoffred/fc-mc-test01.git --save fc-mc-test01
 ```
 
 ## Usage
