@@ -1,10 +1,13 @@
 {
-  "name": "fc-mc-test01",
-  "version": "1.0.0",
+  "name": "@noahsk/fc-mc-test04",
+  "version": "0.1.0",
   "description": "for testing with npm publish - TSX library attempt",
   "author": "handsoffred",
   "license": "MIT",
-  "repository": "handsoffred/fc-mc-test01",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/handsoffred/fc-mc-test01.git"
+  },
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
@@ -59,5 +62,16 @@
   },
   "files": [
     "dist"
+  ],
+  "bugs": {
+    "url": "https://github.com/handsoffred/fc-mc-test01/issues"
+  },
+  "homepage": "https://github.com/handsoffred/fc-mc-test01#readme",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {},
+  "keywords": [
+    "fastcast"
   ]
 }
